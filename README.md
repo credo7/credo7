@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @credo7
+- 👀 I’m interested in JavaScript and all web development related
+- 🌱 I’m currently learning Html && CSS && JavaScript 
+- 💞️ I’m looking to collaborate on interestimg web projects
+- 📫 How to reach me - telegram @swagv
