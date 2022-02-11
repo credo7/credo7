@@ -4,46 +4,46 @@
 
 <table align="center" min-height="240">
 	<tr>
-		<td align="center" min-width="100">
-			<img src="img/js.png" min-height="70px" min-width="70px">
+		<td align="center" width="100">
+			<img src="img/js.png" height="70px" width="70px">
 			JavaScript
 		</td>
-		<td align="center" min-width="100">
-			<img src="img/react.png" min-height="70px" min-width="70px">
+		<td align="center" width="100">
+			<img src="img/react.png" height="70px" width="70px">
 			React
 		</td>
-		<td align="center" min-width="100">
-			<img src="img/nodejs.png" min-height="70px" min-width="70px">
+		<td align="center" width="100">
+			<img src="img/nodejs.png" height="70px" width="70px">
 			Node.js
 		</td>
 		<td align="center" min-width="100">
-			<img src="img/nestjs.png" min-height="70px" min-width="70px">
+			<img src="img/nestjs.png" height="70px" width="70px">
 			NestJS
 		</td>
-		<td align="center" min-width="100">
-			<img src="img/docker.png" min-height="70px" min-width="70px">
+		<td align="center" width="100">
+			<img src="img/docker.png" height="70px" width="70px">
 			Docker
 		</td>
 	</tr>
 	<tr>
-		<td align="center" min-width="100">
-			<img src="img/c.png" min-height="70px" min-width="70px">
+		<td align="center" width="100">
+			<img src="img/c.png" height="70px" width="70px">
 			C
 		</td>
-		<td align="center" min-width="100">
-			<img src="img/cpp.png" min-height="70px" min-width="70px">
+		<td align="center" width="100">
+			<img src="img/cpp.png" height="70px" width="70px">
 			C++
 		</td>
 		<td align="center" min-width="100">
-			<img src="img/java.png" min-height="70px" min-width="70px">
+			<img src="img/java.png" height="70px" width="70px">
 			Java
 		</td>
 		<td align="center" min-width="100">
-			<img src="img/python.png" min-height="70px" min-width="70px">
+			<img src="img/python.png" height="70px" width="70px">
 			Python
 		</td>
 		<td align="center" min-width="100">
-			<img src="img/git.png" min-height="70px" min-width="70px">
+			<img src="img/git.png" height="70px" width="70px">
 			Git
 		</td>
 	</tr>
