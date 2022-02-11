@@ -12,7 +12,7 @@
 			<img src="img/react.png" height="70px" width="70px">
 			React
 		</td>
-		<td align="center" width="100px">
+		<td align="center" width="100">
 			<img src="img/nodejs.png" height="70px" width="70px">
 			Node.js
 		</td>
@@ -35,8 +35,8 @@
 			Swift
 		</td>
 		<td align="center" width="100">
-			<img src="img/java.png" height="70px" width="70px">
-			Java
+			<img src="img/bootstrap.png" height="70px" width="70px">
+			Bootstrap
 		</td>
 		<td align="center" width="100">
 			<img src="img/python.png" height="70px" width="70px">
@@ -61,8 +61,8 @@
 			Redux
 		</td>
 		<td align="center" width="100">
-			<img src="img/bootstrap.png" height="70px" width="70px">
-			Bootstrap
+			<img src="img/java.png" height="70px" width="70px">
+			Java
 		</td>
 		<td align="center" width="100">
 			<img src="img/typescript.png" height="70px" width="70px">
