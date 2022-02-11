@@ -31,8 +31,8 @@
 			C
 		</td>
 		<td align="center" width="100">
-			<img src="img/cpp.png" height="70px" width="70px">
-			C++
+			<img src="img/swift.png" height="70px" width="70px">
+			Swift
 		</td>
 		<td align="center" width="100">
 			<img src="img/java.png" height="70px" width="70px">
