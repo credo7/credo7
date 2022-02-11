@@ -39,8 +39,8 @@
 			Bootstrap
 		</td>
 		<td align="center" width="100">
-			<img src="img/python.png" height="70px" width="70px">
-			Python
+			<img src="img/postgress.png" height="70px" width="70px">
+			Postgress
 		</td>
 		<td align="center" width="100">
 			<img src="img/git.png" height="70px" width="70px">
@@ -53,8 +53,8 @@
 			SASS
 		</td>
 		<td align="center" width="100">
-			<img src="img/postgress.png" height="70px" width="70px">
-			Postgress
+			<img src="img/python.png" height="70px" width="70px">
+			Python
 		</td>
 		<td align="center" width="100">
 			<img src="img/redux.png" height="70px" width="70px">
