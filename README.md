@@ -2,7 +2,7 @@
 
 **Skills:**
 
-<table align="center" height="240" min-width="500px">
+<table align="center" height="240">
 	<tr>
 		<td align="center" width="100">
 			<img src="img/js.png" height="70px" width="70px">
@@ -16,7 +16,7 @@
 			<img src="img/nodejs.png" height="70px" width="70px">
 			Node.js
 		</td>
-		<td align="center" min-width="100">
+		<td align="center" width="100">
 			<img src="img/nestjs.png" height="70px" width="70px">
 			NestJS
 		</td>
@@ -34,15 +34,15 @@
 			<img src="img/cpp.png" height="70px" width="70px">
 			C++
 		</td>
-		<td align="center" min-width="100">
+		<td align="center" width="100">
 			<img src="img/java.png" height="70px" width="70px">
 			Java
 		</td>
-		<td align="center" min-width="100">
+		<td align="center" width="100">
 			<img src="img/python.png" height="70px" width="70px">
 			Python
 		</td>
-		<td align="center" min-width="100">
+		<td align="center" width="100">
 			<img src="img/git.png" height="70px" width="70px">
 			Git
 		</td>
