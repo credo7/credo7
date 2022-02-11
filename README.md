@@ -12,7 +12,7 @@
 			<img src="img/react.png" height="70px" width="70px">
 			React
 		</td>
-		<td align="center" width="100">
+		<td align="center" width="100px">
 			<img src="img/nodejs.png" height="70px" width="70px">
 			Node.js
 		</td>
@@ -26,7 +26,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td align="center" width="100px">
+		<td align="center" width="100">
 			<img src="img/c.png" height="70px" width="70px">
 			C
 		</td>
