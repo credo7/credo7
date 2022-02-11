@@ -47,6 +47,28 @@
 			Git
 		</td>
 	</tr>
+	<tr>
+		<td align="center" width="100">
+			<img src="img/sass.png" height="70px" width="70px">
+			SASS
+		</td>
+		<td align="center" width="100">
+			<img src="img/postgress.png" height="70px" width="70px">
+			Postgress
+		</td>
+		<td align="center" width="100">
+			<img src="img/redux.png" height="70px" width="70px">
+			Redux
+		</td>
+		<td align="center" width="100">
+			<img src="img/bootstrap.png" height="70px" width="70px">
+			Bootstrap
+		</td>
+		<td align="center" width="100">
+			<img src="img/typescript.png" height="70px" width="70px">
+			Typescript
+		</td>
+	</tr>
 </table>
 
 **Contacts:**
