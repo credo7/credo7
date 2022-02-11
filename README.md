@@ -2,7 +2,7 @@
 
 **Skills:**
 
-<table align="center" height="360" width="500">
+<table align="center" height="360" width="500px">
 	<tr>
 		<td align="center" width="100">
 			<img src="img/js.png" height="70px" width="70px">
