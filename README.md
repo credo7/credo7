@@ -16,7 +16,7 @@
 &nbsp;&nbsp; -->
 [![website](./img/instagram-light.svg)](https://instagram.com/credo#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/credo#gh-dark-mode-only)
-[![website](./img/telegram)](https://t.me/swagv)
+[![website](<img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png")](https://t.me/swagv)
 
 ### Languages and Tools:
 
@@ -26,7 +26,7 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/postgresql.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgres" width="26px" src="./img/postgress.png" style="padding-right:10px;" /> <!--yeah postgres with one 'S'! -->
 <img align="left" alt="NestJS" width="26px" src="./img/nestjs.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="padding-right:10px;" />
