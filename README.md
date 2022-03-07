@@ -9,14 +9,6 @@
 - ⚡ Fun fact: I love giving flowers, but it takes work
 - 😻 Let's work together
 
-### Connect with me:
-
-<!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/)
-&nbsp;&nbsp; -->
-<img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" width="40px" align="center">[@swagv](https://t.me/swagv)
-<img src="./img/instagram-light.svg" width="40px" align="center">[Credo](https://instagram.com/credo)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -36,3 +28,12 @@
 <img align="left" alt="Redux" width="26px" src="./img/redux.png" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="26px" src="./img/typescript.png" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+
+<br>
+
+### Connect with me:
+
+<!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/)
+&nbsp;&nbsp; -->
+<img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" width="50px" align="center">[@swagv](https://t.me/swagv)
