@@ -31,7 +31,7 @@
 
 <br>
 
-### 📚 Last book read by me :
+### 📚 Last books read by me :
 1.Code: The Hidden Language of Computer Hardware and Software
 2.The Goal. Novel by Eliyahu M. Goldratt
 3.Clean Code. Book by Robert Cecil
