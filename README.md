@@ -14,8 +14,8 @@
 <!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/)
 &nbsp;&nbsp; -->
-[<img align="left" alt="Instagram" width="52px" src="./img/instagram-light.svg" />](https://instagram.com/credo#gh-light-mode-only)
-[<img align="left" alt="Instagram" width="52px" src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png"/>](https://t.me/swagv)
+<img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" width="40px" align="center">[@swagv](https://t.me/swagv)
+<img src="./img/instagram-light.svg" width="40px" align="center">[Credo](https://instagram.com/credo)
 
 ### Languages and Tools:
 
