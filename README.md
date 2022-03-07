@@ -33,11 +33,11 @@
 
 ### 📚 Last books read by me :
 1. Code: The Hidden Language of Computer Hardware and Software
-<br>
+<!-- <br> -->
 2. The Goal. Novel by Eliyahu M. Goldratt
-<br>
+<!-- <br> -->
 3. Clean Code. Book by Robert Cecil
-<br>
+<!-- <br> -->
 4. Will: The Sunday Times Bestselling Autobiography. Will Smith
 
 ### Connect with me:
