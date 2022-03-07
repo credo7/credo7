@@ -1,6 +1,6 @@
 # Hi there, I'm Vitaly - But not from Italy 👋 
 
-## I'm a LifeLover, Sportsman, Developer, and Future Husband!! At least we will believe
+## I'm a LifeLover, Sportsman, Developer, and Future Husband!! At least in active searchings
 
 - 🔭 I like to overtake yesterday's me!
 - 🌱 I’m currently learning Frontend/backend, thinking about react native
