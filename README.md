@@ -17,16 +17,16 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Postgres" width="26px" src="./img/postgress.png" style="padding-right:10px;" /> <!--yeah postgres with one 'S'! -->
-<img align="left" alt="NestJS" width="26px" src="./img/nestjs.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
-<img align="left" alt="Swift" width="26px" src="./img/swift.png" style="padding-right:10px;" />
+<img align="left" alt="NestJS" width="26px" src="./img/nestjs.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="./img/c.png" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="26px" src="./img/redux.png" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="26px" src="./img/typescript.png" />
+<img align="left" alt="Postgres" width="26px" src="./img/postgress.png" style="padding-right:10px;" /> <!--yeah postgres with one 'S'! -->
+<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="./img/c.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
+<img align="left" alt="Swift" width="26px" src="./img/swift.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
 <br>
