@@ -1,9 +1,11 @@
 # Hi there, I'm Vitaly - But not from Italy 👋 
 
+## I'm a LifeLover, Sportsman, Developer, and Future Husband!! At least in active searchings
+
 - 🔭 I like to overtake yesterday's me!
-- 🌱 I’m currently learning Frontend/backend
+- 🌱 I’m currently learning Frontend/backend, thinking about react native
 - 👯 I’m looking for a friendly team with interesting ideas
-- 🥅 2022 Goals: Intern -> Junior
+- 🥅 2022 Goals: Junior -> Middle
 - ⚡ Fun fact: I love giving flowers, but it takes work
 - 😻 Let's work together
 
