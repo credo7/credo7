@@ -1,9 +1,9 @@
 # Hi, I'm Vitaly (<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">) 
 
-> **<em> 
+<em> 
 - I specialize in the Frontend area, I know how to use GitHub, write clean and understandable code, and push it punctually and responsibly.
 - At the moment I am studying new technologies, improving the learned skills and starting to think about an internship
-- The main professional interest is development, I would like to get deeper knowledge and experience in working with large projects, and then apply them in a team</em>**
+- The main professional interest is development, I would like to get deeper knowledge and experience in working with large projects, and then apply them in a team</em>
 
 ### Languages and Tools:
 
