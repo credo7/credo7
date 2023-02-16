@@ -1,6 +1,10 @@
-# Vitaly (<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">)
+# Vitaly 
 
-# React Native Developer
+Three years without rest deserve attention.
+
+# Full Stack Developer
+
+NestJs + React Native
 
 ### Connect with me:
 
