@@ -1,4 +1,4 @@
-# Vitaly, three years without rest deserve attention.
+# Vitaly
 
 # Full Stack Developer
 # NestJs + React Native
