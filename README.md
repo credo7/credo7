@@ -1,10 +1,7 @@
-# Vitaly 
-
-Three years without rest deserve attention.
+# Vitaly, three years without rest deserve attention.
 
 # Full Stack Developer
-
-NestJs + React Native
+# NestJs + React Native
 
 ### Connect with me:
 
