@@ -3,7 +3,7 @@
 # Full Stack Developer
 # NestJs + React Native
 
-### Connect with me:
+# Connect with me:
 
 <!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/)
