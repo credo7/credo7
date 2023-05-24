@@ -1,7 +1,6 @@
 # Vitaly 👋
 
-## ⚡ Powered by Python
-
+## 🐍__Backend_Python_Developer__🐍
 <!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/)
 &nbsp;&nbsp; -->
