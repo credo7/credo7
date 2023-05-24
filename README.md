@@ -1,6 +1,6 @@
 # Vitaly 👋
 
-## 🐍__Backend_Python_Developer__🐍
+## 🐍&nbsp;&nbsp;&nbsp;<em>Backend_Python_Developer</em>&nbsp;&nbsp;&nbsp;🐍
 <!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/)
 &nbsp;&nbsp; -->
