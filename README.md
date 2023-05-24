@@ -1,6 +1,6 @@
 # Vitaly 👋
 
-# ⚡ Powered by Go
+# ⚡ Powered by Python
 
 <!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/)
