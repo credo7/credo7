@@ -1,11 +1,7 @@
-# Vitaly 👋
-
-## &nbsp;&nbsp;&nbsp;🐍&nbsp;&nbsp;&nbsp;<em>Backend_Python_Developer</em>&nbsp;&nbsp;&nbsp;🐍
+# Vitaly 👋 &nbsp;<em>Backend_Python_Developer</em>&nbsp;&nbsp;&nbsp;🐍
 <!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/)
 &nbsp;&nbsp; -->
-
-## 👋 Hello there!
 
 I specialize in Python backend development and have experience in the following areas:
 
